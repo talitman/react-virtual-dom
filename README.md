@@ -1,2 +1,2 @@
 # react-virtual-dom
-Nir Kaufman is worng 🤪
+Nir Kaufman is wrong 😉 🤪
